@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\float-point type\float-point type\bin\Debug\float-point type.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\float-point type\float-point type\bin\Debug\float-point type.exe
+c:\users\hp\documents\visual studio 2015\Projects\float-point type\float-point type\bin\Debug\float-point type.pdb
+c:\users\hp\documents\visual studio 2015\Projects\float-point type\float-point type\obj\Debug\float-point type.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\float-point type\float-point type\obj\Debug\float-point type.exe
+c:\users\hp\documents\visual studio 2015\Projects\float-point type\float-point type\obj\Debug\float-point type.pdb
